@@ -16,12 +16,13 @@ This project demonstrates a simple linear regression model to predict housing pr
 The project uses a linear model to predict housing prices. The input variable `x_train` represents the size of the house in 1000 square feet, and the target variable `y_train` represents the price in 1000s of dollars.
 
 ## Data Initialization
-
 ```python
 import numpy as np
 
-x_train = np.array([1.0, 2.0, 3.0, 10.0])
-y_train = np.array([300.0, 500.0, 700.0, 1200.0])
+# Initialize the training data
+x_train = np.array([1.0, 2.0, 3.0, 10.0])  # House sizes in 1000 square feet
+y_train = np.array([300.0, 500.0, 700.0, 1200.0])  # Prices in 1000s of dollars
 
+# Display the initialized data
 print(f"x_train = {x_train}")
 print(f"y_train = {y_train}")
