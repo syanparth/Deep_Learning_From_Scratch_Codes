@@ -1,11 +1,6 @@
 # Perceptron-Based Logic Gate Implementations
 
-This project demonstrates the implementation of basic logic gates (AND, OR, NOT, NAND, NOR, XOR, and XNOR) using a Perceptron model.
-
-## Table of 
-
-1. [Overview](#overview)
-2. [Perceptron Model](#perceptron-model)ate Implementations](#logic-gate-implementations)
+This project demonstrates the implementation of basic logic gates (AND, OR, NOT, NAND, NOR, XOR, and XNOR) using a ions)
    - [AND Gate](#and-gate)
    - [OR Gate](#or-gate)
    - [NOT Gate](#not-gate)
