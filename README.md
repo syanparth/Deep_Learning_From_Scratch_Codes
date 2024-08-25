@@ -5,8 +5,7 @@ This project demonstrates the implementation of basic logic gates (AND, OR, NOT,
 ## Table of 
 
 1. [Overview](#overview)
-2. [Perceptron Model](#perceptron-model)
-3. [Logic Gate Implementations](#logic-gate-implementations)
+2. [Perceptron Model](#perceptron-model)ate Implementations](#logic-gate-implementations)
    - [AND Gate](#and-gate)
    - [OR Gate](#or-gate)
    - [NOT Gate](#not-gate)
