@@ -2,7 +2,7 @@
 
 This project demonstrates the implementation of basic logic gates (AND, OR, NOT, NAND, NOR, XOR, and XNOR) using a Perceptron model.
 
-## Table of Contents
+## Table of 
 
 1. [Overview](#overview)
 2. [Perceptron Model](#perceptron-model)
