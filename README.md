@@ -5,15 +5,7 @@ This project demonstrates the implementation of basic logic gates (AND, OR, NOT,
    - [OR Gate](#or-gate)
    - [NOT Gate](#not-gate)
    - [NAND Gate](#nand-gate)
-   - [NOR Gate](#nor-gate)
-   - [XOR Gate](#xor-gate)
-   - [XNOR Gate](#xnor-gate)
-4. [Testing the Model](#testing-the-model)
-5. [How to Run](#how-to-run)
-
-## Overview
-
-This project provides implementations of basic logic gates using a single-layer Perceptron. The Perceptron is a fundamental building block in neural networks and is capable of solving simple logical operations by appropriately setting weights and biases.
+   - [
 
 ## Perceptron Model
 
