@@ -4,14 +4,7 @@ This project demonstrates the implementation of basic logic gates (AND, OR, NOT,
    - [AND Gate](#and-gate)
    - [OR Gate](#or-gate)
    - [NOT Gate](#not-gate)
-   - [NAND Gate](#nand-gate)
-   - [
-
-## Perceptron Model
-
-The Perceptron model is a type of linear classifier used for binary classification tasks. The Perceptron model in this project uses a unit step function as the activation function, which outputs `1` if the input is greater than or equal to zero and `0` otherwise.
-
-# Housing Prices Prediction
+   - [NAND 
 
 This project demonstrates a simple linear regression model to predict housing prices based on the size of the house.
 
